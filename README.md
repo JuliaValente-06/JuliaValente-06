@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou a Julia! 👋
 
-<!--
-**JuliaValente-06/JuliaValente-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia da Computação no IBMEC (Rio de Janeiro), interessada em desenvolvimento de software e inteligência artificial.
 
-Here are some ideas to get you started:
+## 💻 Tecnologias
+- **Linguagens:** Java, Python, JavaScript, SQL, HTML, CSS
+- **Frameworks:** React, Django
+- **Banco de dados:** MySQL
+- **Ferramentas:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+- **Sistema de Validação de Estágios:** back-end em Python/Django com API e front-end em React
+- **Plataforma de Monitorias do IBMEC:** front-end em React para agendar aulas com monitores
+- **Gêmeos Digitais para Sala de Aula:** botão IoT com ESP8266 e MQTT
+- **Petravic AI:** monitoramento de compressores com detecção de anomalias e IA (IbmecJr)
+
+## 🌎 Idiomas
+Português (nativo) · Inglês (fluente)
+
+📫 [LinkedIn](https://www.linkedin.com/in/julia-valente-39361137a/) · juliavalente06@gmail.com
